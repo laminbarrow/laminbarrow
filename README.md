@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Here you will find Javacript/Typescript, PHP and Python based projects. Feel free to follow me for update and reach out via email. Thank you!
 <!--
 **laminbarrow/laminbarrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
